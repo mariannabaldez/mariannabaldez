@@ -2,7 +2,7 @@
 
 ## Oi, me chamo Marianna <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🌱 Meu foco atual é desenvolver conhecimentos atravez de progetos usando a linguagem Python. [ projetos ] (https://github.com/mariannabaldez/projetos_para_aprendizado)
+- 🌱 Meu foco atual é desenvolver conhecimentos atravez de projetos usando a linguagem Python. (https://github.com/mariannabaldez/projetos_para_aprendizado)
 - 🔭 Estou em Fase de transição de carreira, em busca da primeira experiencia profissional na área de programação.
 
 
