@@ -9,7 +9,6 @@
 <div align="center">
 <a href="https://github.com/mariannabaldez">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariannabaldez&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariannabaldez&layout=compact&langs_count=7&theme=graywhite"/>
 </div>
 
 ## Linguagens:
@@ -17,6 +16,12 @@
 <br/>
 <img align="center" alt="Marianna-Python" height="50" width="60" src="https://icongr.am/devicon/python-original.svg?size=79&color=currentColor">
 <img align="center" alt="Marianna-JavaScript" height="50" width="60" src="https://icongr.am/devicon/javascript-original.svg?size=79&color=currentColor">
+<br/><br/>
+</div>
+ 
+ ## Aprendendo:
+<div style="display: inline_block"><br>
+<br/>
 <img align="center" alt="Marianna-Git" height="50" width="60" src="https://icongr.am/devicon/git-original.svg?size=79&color=currentColor">
 <img align="center" alt="Marianna-GitHub" height="50" width="60" src="https://icongr.am/devicon/github-original.svg?size=79&color=currentColor">
 <br/><br/>
