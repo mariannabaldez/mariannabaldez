@@ -16,14 +16,16 @@
 <br/>
 <img align="center" alt="Marianna-Python" height="50" width="60" src="https://icongr.am/devicon/python-original.svg?size=79&color=currentColor">
 <img align="center" alt="Marianna-JavaScript" height="50" width="60" src="https://icongr.am/devicon/javascript-original.svg?size=79&color=currentColor">
+<img align="center" alt="Marianna-Git" height="50" width="60" src="https://icongr.am/devicon/git-original.svg?size=79&color=currentColor">
+<img align="center" alt="Marianna-GitHub" height="50" width="60" src="https://icongr.am/devicon/github-original.svg?size=79&color=currentColor">
 <br/><br/>
 </div>
  
  ## Aprendendo:
 <div style="display: inline_block"><br>
+<img align="center" alt="Marianna-Sql" height="50" width="60" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=currentColor">
 <br/>
-<img align="center" alt="Marianna-Git" height="50" width="60" src="https://icongr.am/devicon/git-original.svg?size=79&color=currentColor">
-<img align="center" alt="Marianna-GitHub" height="50" width="60" src="https://icongr.am/devicon/github-original.svg?size=79&color=currentColor">
+
 <br/><br/>
 </div>
 
