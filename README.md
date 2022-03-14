@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/marianna-baldez-gomes-90b409191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  ## <p align=center>  Sobre mim :mag_right:
-:pencil2: Tenho me dedicado em projetos freelancer com extensão para desenvolvimento web.
+<p :pencil2: Tenho me dedicado em projetos freelancer com extensão para desenvolvimento web.
 :wrench: Pratico em projetos junto com @caiomorozini, quem me incentivou a começar a programar
 
 ![Snake animation](https://github.com/mariannabaldez/mriannabaldez/blob/output/github-contribution-grid-snake.svg)
