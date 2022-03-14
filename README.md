@@ -33,7 +33,7 @@
  <br> <br>
 
 
-  ## <p align=center> 📚 tecnologias que verá em meu perfil em breve
+  ## <p align=center> 📚 O que verá em meu perfil em breve
 
   <img align="center" alt= "Caio-aws" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
   <img align="center" alt= "Caio-mongodb" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
