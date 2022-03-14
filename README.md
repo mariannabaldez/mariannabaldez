@@ -16,8 +16,7 @@
    <img align="center" alt="Marianna-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   
   </div>
-   <br>
-   <br>
+   <br> <br>
    
    ## <p align=center> Extras
 
@@ -30,9 +29,9 @@
   <img align="center" alt="Marianna-css3" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Marianna-html5" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Marianna-Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-   
-   
  </div>
+ <br> <br>
+
 
   ## <p align=center> 📚 tecnologias que verá em meu perfil em breve
 
