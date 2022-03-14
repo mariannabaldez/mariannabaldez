@@ -2,36 +2,68 @@
 
 ## Oi, me chamo Marianna <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🌱 Meu foco atual é desenvolver conhecimentos atravez de projetos usando a linguagem Python. (https://github.com/mariannabaldez/projetos_para_aprendizado)
-- 🔭 Estou em Fase de transição de carreira, em busca da primeira experiencia profissional na área de programação.
+  <a href = "mailto:marianna.baldez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marianna-baldez-gomes-90b409191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+ # <p align=center>  About me 
 
-<div align="center">
-<a href="https://github.com/mariannabaldez">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariannabaldez&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-</div>
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; I have a degree in science and technology from the <a href="https://www.unifesp.br/campus/sjc/"> Federal University of São Paulo </a>
+- 🪒 &nbsp; I currently work as a backend developer at <a href="https://risk3.com.br/"> Risk 3 </a>
+![Snake animation](https://github.com/caiomorozini/caiomorozini/blob/output/github-contribution-grid-snake.svg)
+  
+  # 🚀 Projects im currently working on
+   
+   
+  - WebCrawlers for Risk analysis
+  
+  - API for hospital clinical engineering (With FastAPI and Flask)
+    
+  - Signal processing from electroencephalographic records of patients with spinal cord injury
+  
+  - Website for calculating TDEE and TMB   
+   
+   
+ # <p align=center> Technologies
 
-## Linguagens:
-<div style="display: inline_block"><br>
-<br/>
-<img align="center" alt="Marianna-Python" height="50" width="60" src="https://icongr.am/devicon/python-original.svg?size=79&color=currentColor">
-<img align="center" alt="Marianna-JavaScript" height="50" width="60" src="https://icongr.am/devicon/javascript-original.svg?size=79&color=currentColor">
-<img align="center" alt="Marianna-Git" height="50" width="60" src="https://icongr.am/devicon/git-original.svg?size=79&color=currentColor">
-<img align="center" alt="Marianna-GitHub" height="50" width="60" src="https://icongr.am/devicon/github-original.svg?size=79&color=currentColor">
-<br/><br/>
-</div>
+  ## <p align=center> Linguagens e tecnologias
+
+  <div style="display: inline_block" align=center>
+   <img align="center" alt="Marianna-Javascript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+   <img align="center" alt="Marianna-Typescript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+   <img align="center" alt="Marianna-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+   <img align="center" alt="Marianna-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+   <img align="center" alt="Marianna-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  
+  </div>
  
- ## Aprendendo:
-<div style="display: inline_block"><br>
-<img align="center" alt="Marianna-Sql" height="50" width="60" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=currentColor">
-<br/>
+   ## <p align=center>  Frameworks
 
-<br/><br/>
-</div>
+  <div style="display: inline_block" align=center>
+  <img align="center" alt= "Caio-Django" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
+  <img align="center" alt= "Caio-flask" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
+  <img align="center" alt="Caio-Node" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+   
+   
+   ## Extras
 
-## Contate-me:
-<div> 
-<a href = "mailto:marianna.baldez@gmail.com"><img src="https://icongr.am/material/gmail.svg?size=40&color=currentColor"></a>
-<a href="https:https://www.linkedin.com/in/marianna-baldez-gomes-90b409191/" target="_blank"><img src="https://icongr.am/material/linkedin.svg?size=40&color=currentColor"></a>
-<a href="https://api.whatsapp.com/send?phone=55012997100079&text=fale%20comigo" target="_blank"><img src="https://icongr.am/material/whatsapp.svg?size=40&color=currentColor"></a>
-</div>
+  <div style="display: inline_block" align=center>
+  <img align="center" alt="Caio-Heroku" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg"/>
+  <img align="center" alt="Caio-Postgresql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+   <img align="center" alt= "Caio-React" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Caio-Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+  <img align="center" alt="Caio-Ubuntu" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+  <img align="center" alt="Caio-Sqlalchemy" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" />
+  <img align="center" alt= "Caio-css3" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="Caio-html5" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="Caio-Arduino" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+   
+   
+ </div>
+
+  # <p align=center> 📚 technologies i am currently looking to learn
+
+  <img align="center" alt= "Caio-aws" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+  <img align="center" alt= "Caio-mongodb" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img align="center" alt= "Caio-BootStrap" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+  <img align="center" alt= "Caio-TensorFlow" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
