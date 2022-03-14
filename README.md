@@ -5,12 +5,7 @@
   <a href = "mailto:marianna.baldez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marianna-baldez-gomes-90b409191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
- ## <p align=center>  Sobre mim :mag_right:
-<p :pencil2: Tenho me dedicado em projetos freelancer com extensão para desenvolvimento web.
-:wrench: Pratico em projetos junto com @caiomorozini, quem me incentivou a começar a programar
-
-![Snake animation](https://github.com/mariannabaldez/mriannabaldez/blob/output/github-contribution-grid-snake.svg)
-  
+ 
   ## <p align=center> Linguagens e tecnologias
 
   <div style="display: inline_block" align=center>
@@ -34,6 +29,13 @@
   <img align="center" alt="Marianna-Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
  </div>
  <br> <br>
+ 
+ 
+ ## <p align=center>  Sobre mim :mag_right:
+:pencil2: Tenho me dedicado em projetos freelancer com extensão para desenvolvimento web. <br>
+:wrench: Pratico em projetos junto com @caiomorozini, quem me incentivou a começar a programar
+
+![Snake animation](https://github.com/mariannabaldez/mriannabaldez/blob/output/github-contribution-grid-snake.svg)
 
 
   ## <p> 📚 O que verá em meu perfil em breve
