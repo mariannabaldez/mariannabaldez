@@ -5,12 +5,7 @@
   <a href = "mailto:marianna.baldez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marianna-baldez-gomes-90b409191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
- # <p align=center>  About me 
-
-
-   
-   
- # <p align=center> Technologies
+ # <p align=center>  Meus Atributos
 
   ## <p align=center> Linguagens e tecnologias
 
@@ -38,7 +33,7 @@
    
  </div>
 
-  # <p align=center> 📚 technologies i am currently looking to learn
+  # <p align=center> 📚 tecnologias que tenho interesse em estudar
 
   <img align="center" alt= "Caio-aws" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
   <img align="center" alt= "Caio-mongodb" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
