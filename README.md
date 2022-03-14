@@ -18,7 +18,7 @@
   </div>
    
    
-   ## Extras
+   ## <p align=center> Extras
 
   <div style="display: inline_block" align=center>
   <img align="center" alt="Marianna-Postgresql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
@@ -33,7 +33,7 @@
    
  </div>
 
-  # <p align=center> 📚 tecnologias que tenho interesse em estudar
+  ## <p align=center> 📚 tecnologias que tenho interesse em estudar
 
   <img align="center" alt= "Caio-aws" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
   <img align="center" alt= "Caio-mongodb" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
