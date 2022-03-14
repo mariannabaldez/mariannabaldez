@@ -6,7 +6,12 @@
   <a href="https://www.linkedin.com/in/marianna-baldez-gomes-90b409191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  # <p align=center>  Meus Atributos
-
+  
+  
+  
+  
+  ![Snake animation](https://github.com/mariannabaldez/mariannabaldez/blob/output/github-contribution-grid-snake.svg)
+  
   ## <p align=center> Linguagens e tecnologias
 
   <div style="display: inline_block" align=center>
