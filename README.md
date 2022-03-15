@@ -29,11 +29,6 @@
   <img align="center" alt="Marianna-Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
  </div>
  <br> <br>
- 
- 
- ## <p align=center>  Sobre mim :mag_right:
-:pencil2: Tenho me dedicado em projetos freelancer com extensão para desenvolvimento web. <br>
-:wrench: Pratico em projetos junto com @caiomorozini, quem me incentivou a começar a programar
 
 ![Snake animation](https://github.com/mariannabaldez/mriannabaldez/blob/output/github-contribution-grid-snake.svg)
 
