@@ -30,7 +30,7 @@
  </div>
  <br> <br>
 
-![Snake animation](https://github.com/mariannabaldez/mriannabaldez/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/mariannabaldez/mriannabaldez/blob/output/github-contribution-grid-snake.svg)-->
 
 
   ## <p> 📚 O que verá em meu perfil em breve
