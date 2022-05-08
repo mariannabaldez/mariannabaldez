@@ -38,7 +38,7 @@
 <!--![Snake animation](https://github.com/mariannabaldez/mriannabaldez/blob/output/github-contribution-grid-snake.svg)-->
 
 
-  ## <p> 📚 O que verá em meu perfil em breve:
+  ## <p> 📚 O que verá em meu perfil em breve: (estou estudando agora)
   
   <div style="display: inline_block" align=center>
   <img align="center" alt="Marianna-Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
