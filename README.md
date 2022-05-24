@@ -15,6 +15,8 @@
     <img align="center" alt="Marianna-FastAPI" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
     <img align="center" alt="Marianna-SQLA" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" />
     <img align="center" alt="Marianna-SQLite" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
+    <img align="center" alt="Marianna-Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+    <img align="center" alt="Marianna-Postegresql" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
       
   </div>
    <br> <br>
@@ -39,5 +41,4 @@
   ## <p> 📚 O que verá em meu perfil em breve: (o que estou estudando agora)
   
   <div style="display: inline_block" align=center>
-  <img align="center" alt="Marianna-Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
-  <img align="center" alt="Marianna-Postegresql" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+  <img align="center" alt="Marianna-Django" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
