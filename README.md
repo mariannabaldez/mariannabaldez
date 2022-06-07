@@ -41,4 +41,5 @@
   ## <p> 📚 O que verá em meu perfil em breve: (o que estou estudando agora)
   
   <div style="display: inline_block" align=center>
-  <img align="center" alt="Marianna-Django" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+    <img align="center" alt="Marianna-Flask" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
+    <img align="center" alt="Marianna-Django" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
