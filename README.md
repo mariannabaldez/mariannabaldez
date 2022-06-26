@@ -40,4 +40,4 @@
   ## <p> 📚 O que verá em meu perfil em breve: (o que estou estudando agora)
   
   <div style="display: inline_block" align=center>
-    <img align="center" alt="Marianna-Node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"     />
+    <img align="center" alt="Marianna-Node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"     />
