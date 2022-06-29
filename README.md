@@ -22,7 +22,7 @@
   </div>
    <br> <br>
    
-   ## <p align=center> Outras Tecnologias que sei
+   ## <p align=center> Extras
 
   <div style="display: inline_block" align=center>
     <img align="center" alt="Marianna-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
