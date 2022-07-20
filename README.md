@@ -25,11 +25,10 @@
   <img align="center" alt="Marianna-SQLA" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" />
     <img align="center" alt="Marianna-SQLite" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
     <br><br>
-    <img align="center" alt="Marianna-Javascript" height="50" width="60" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-  original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)"/>
+    <img align="center" alt="Marianna-Javascript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-  original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)"/>
     <img align="center" alt="Marianna-Typescript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
     <img align="center" alt="Marianna-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"       />
     <br><br>
-   
     <img align="center" alt="Marianna-css3" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img align="center" alt="Marianna-sass" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
     <img align="center" alt="Marianna-Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
