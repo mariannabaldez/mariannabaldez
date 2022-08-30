@@ -1,14 +1,12 @@
 
 
 ## Oi, me chamo Marianna <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">-->
-
+  <a href = "mailto:marianna.baldez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marianna-baldez-gomes-90b409191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 # <p align=center>  About me 
 
 - 🪒 &nbsp; Trabalho no time <a href="https://risk3.com.br/"> Risk 3 </a> como desenvolvedora backend.
-
-  <a href = "mailto:marianna.baldez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marianna-baldez-gomes-90b409191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
   ## <p align=center> Tecnologias que mais uso:
 
