@@ -6,7 +6,6 @@
 
 # <p align=center>  About me 
 
-- 🪒 &nbsp; Trabalho no time <a href="https://risk3.com.br/"> Risk 3 </a> como desenvolvedora backend.
  
   ## <p align=center> Tecnologias que mais uso:
 
