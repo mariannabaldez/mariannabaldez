@@ -42,5 +42,4 @@
   ## <p> 📚 O que verá em meu perfil em breve:
   
   <div style="display: inline_block" align=center>
-    <img align="center" alt="Marianna-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-
+    <p> Estou trabalhando em um projeto que a partir de uma base de dados de receitas culinárias, consulta o valor nutricional pela quantidade de cada ingrediente da receita em uma API REST e pela soma obtem o valor nutricional da receita completa.
