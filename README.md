@@ -42,4 +42,4 @@
   ## <p> 📚 O que verá em meu perfil em breve:
   
   <div style="display: inline_block" align=center>
-    <p> Estou trabalhando em um projeto que a partir de uma base de dados de receitas culinárias, consulta o valor nutricional pela quantidade de cada ingrediente da receita em uma API REST e pela soma obtem o valor nutricional da receita completa.
+    <p> Estou trabalhando em um projeto que a partir de uma base de dados de receitas culinárias, consulta o valor nutricional pela quantidade de cada ingrediente da receita em uma API e pela soma obtem o valor nutricional da receita completa.
